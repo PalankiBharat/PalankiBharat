@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm P N Bharat Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+- 🔭 I’m currently working as an Android Developer at Hoichoi Tech.
+
 - 💬 Ask me about **Android , Kotlin**
 
 - 📫 How to reach me **bk9735732777@gmail.com**
